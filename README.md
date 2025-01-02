@@ -6,6 +6,6 @@
 
 ⚙️ Proficient in Python, Javascript, Typescript, SQL, HTML/CSS
 <!--👦🏾 Here's my portfolio website - [nishantnair]() -->
-📲 See my LinkedIn [here](https://www.linkedin.com/in/nairnishant/)
+📱 See my LinkedIn [here](https://www.linkedin.com/in/nairnishant/)
 
 </div>
