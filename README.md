@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A Honors CS Student @ NJIT</h3>
-
-- 📫 How to reach me: **nnair4002@gmail.com**
+💼 Previous Software Engineer Intern @ [`TheFword`](https://thefword.ai/)<br> 
+📫 How to reach me: **nnair4002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
